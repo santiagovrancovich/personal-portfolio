@@ -1,0 +1,15 @@
+{
+    "textMessages": [
+        "Hi, we are looking for a developer, are you one by chance?",
+        "Oh, hi there! 👋",
+        "Yes, i'm a self-taught developer based in Rosario, Argentina, that's been coding since the age of 12!",
+        "Wich skills do you have?",
+        "I'm skilled with web technologies and frameworks such as React, Sass and Node.js, but also with languages such as Typescript and Python",
+        "Do you have any projects?",
+        "Yes, you can check them out here [https://codesandbox.io/u/santiagovrancovich](https://codesandbox.io/u/santiagovrancovich)",
+        "And here you have some more to see! [https://github.com/santiagovrancovich](https://github.com/santiagovrancovich)",
+        "Wow, you seem really cool! how we can hire you?",
+        "Well you can give me the details here [santiagovrancovich182@gmail.com](mailto:santiagovrancovich182@gmail.com) I'm always answering!"
+      ],
+      "isBlue": [true, false, false, true, false, true, false, false, true, false]
+}
